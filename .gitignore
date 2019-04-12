@@ -1,0 +1,15 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+backend/src/main/resources/saml/spectra-2017.keystore
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+/.svn
+.project
